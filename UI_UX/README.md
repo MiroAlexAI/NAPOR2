@@ -1,6 +1,4 @@
 Первый продуктовый AQ для команды NAPOR2
-![image](https://github.com/MiroAlexAI/NAPOR2/assets/126348122/61018c35-090d-40e0-a9cd-cc95361396b6)
-
 
 ### Определение Целевой Аудитории:
 Кто будет использовать таблицы?
@@ -89,6 +87,7 @@ https://darasims.com/stati/obzory/obzor_sims4/3679-navyk-akterskogo-masterstva-v
 - 3. Прочие соц.сети
    
 
+![image](https://github.com/MiroAlexAI/NAPOR2/assets/126348122/9b569dd9-baea-4bf8-b230-a499717ba647)
 
 
 
