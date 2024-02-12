@@ -17,3 +17,6 @@ PDF документ
 
 V2.0.1
 ![image](https://github.com/MiroAlexAI/NAPOR2/assets/126348122/0d56cca6-43de-4783-9350-00e2872953b2)
+
+v2.0.3
+![image](https://github.com/MiroAlexAI/NAPOR2/assets/126348122/a96b3217-2a74-4861-abfd-46199f68f54a)
